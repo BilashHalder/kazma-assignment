@@ -1,0 +1,27 @@
+.disply{
+  width: 17%;
+  margin-top: 2%;
+  height: 31px;
+  border-radius: 5px;
+  margin-left: -7px;
+}
+.keypad{
+  margin-left: 41%;
+  margin-top: 1%;
+}
+.row{
+  margin-bottom:2%;
+}
+button{
+  height: 40px;
+  width: 45px;
+  margin-right: 4px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+.operator{
+  height: 40px;
+  width: 54px;
+  margin-left: 20px;
+}
